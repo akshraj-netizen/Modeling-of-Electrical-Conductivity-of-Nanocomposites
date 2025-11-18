@@ -1,1 +1,1 @@
-# Modeling-oF-Electrical-Conductivity-of-Nanocomposites
+# Modeling-of-Electrical-Conductivity-of-Nanocomposites
